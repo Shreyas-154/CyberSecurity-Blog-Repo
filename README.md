@@ -1,6 +1,6 @@
-# 🛡️ CyberSecurity Blog Repository
+# 🛡️ CyberSecurity Blog Repositor
 
-Welcome to the **CyberSecurity-Blog-Repo** — a curated and hands-on knowledge base where I document everything I learn, build, and break in the world of cybersecurity. This repository is a living archive of walkthroughs, tool usage, cheat sheets, and security research.
+Welcome to the **Grand-Theft-Data** — a curated and hands-on knowledge base where I document everything I learn, build, and break in the world of cybersecurity. This repository is a living archive of walkthroughs, tool usage, cheat sheets, and security research.
 
 ---
 
